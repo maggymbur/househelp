@@ -1,0 +1,14 @@
+.login-form {
+    margin: 50px auto 50px auto;
+    width: 60%;
+    background-color: white;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 1px 5px 2px #330000;
+    z-index: -1;
+  }
+  h1{
+      align-content: center;
+      color: blueviolet;
+      margin-top: 50px;
+      margin-left: 100px;
+  }
